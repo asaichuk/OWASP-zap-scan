@@ -19,6 +19,13 @@ jobs:
           target: 'http://testphp.vulnweb.com'
           rules_file_name: '.zap/rules.tsv'
           cmd_options: '-a'
+          user-id: ${{ bf9ecb3ed09d4b07bbbaaf2e01b008d9 }}
+          api-token: ${{ /FjURf3PkqI9/DnxFrtj9i3k48+5sqcgHV/gDuZLHcE= }}
+          
+          
+          name: My_Test_Acu_Scan_1
+
+
     
  
          
